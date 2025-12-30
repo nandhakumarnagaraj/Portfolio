@@ -9,7 +9,7 @@ window.addEventListener('scroll', function () {
 });
 
 // Typewriter Effect
-const texts = ["Software Developer", "Freelancer", "Open Source Contributor", "Java Specialist", "Full Stack Developer", "Backend Architect", "Java Developer", "Full Stack Java Trainer", "SQL Developer", "Angular Developer", "Tester"];
+const texts = ["Java Full Stack Developer", "Spring Boot Specialist", "Angular Developer", "Backend Engineer", "Freelancer", "Technical Trainer"];
 let count = 0;
 let index = 0;
 let currentText = "";
